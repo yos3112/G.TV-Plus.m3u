@@ -5,6 +5,28 @@ https://player-api.new.livestream.com/accounts/17608437/events/9065487/broadcast
 #EXTINF:-1, Jesús TV opc2
 https://playback2.akamaized.net/streams/17608437_9065487_lsifehjmcip5z5p8wor_1/exp=1607833604~acl=%2f*~data=hdntl~hmac=e2d577f3a67e1163a2f4a880a4e3a9a3a98eee3744523e29319761e39bd88a8b/media/17608437_9065487_lsifehjmcip5z5p8wor_1@446000p.m3u8?dw=80&ts=1607745600
 
+#EXTINF:-1,  Canal 27
+https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=1607748001~exp=1607748401~acl=/i/dclive_1@330503*~hmac=96c43c7977cd786aa241860fed88eb3c1a441e6b74d799e6db98ebffd58af258
+
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1, EWTN OPC 2
+https://cdn3.wowza.com:443/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/../n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1, pasiones 
+http://89.105.194.59:25461/live/2mxT!Y9/2mxT!Y9/40.m3u8
+
+#EXTINF:-1, Telemundo
+https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, TN23
+https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3ODM3NDUyLCJzZXNzaW9uIjoiMTg2LjE1MS4xMjIuMjA0Iiwid2hpdGVsaXN0IjpbIjE4Ni4xNTEuMTIyLjIwNCJdfSwic2lnbmF0dXJlIjoiYmU5OGE0NmFlMDI4OTYwODUyMWJlNDIwNTM4YTQ4NzljYmNiNmFmNSJ9
+
+#EXTINF:-1, TN23 OPC2
+https://gt-chapintv-canal23-live.ned.media:443/chapintv/smil:canal23.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3ODM3NDUyLCJzZXNzaW9uIjoiMTg2LjE1MS4xMjIuMjA0Iiwid2hpdGVsaXN0IjpbIjE4Ni4xNTEuMTIyLjIwNCJdfSwic2lnbmF0dXJlIjoiYmU5OGE0NmFlMDI4OTYwODUyMWJlNDIwNTM4YTQ4NzljYmNiNmFmNSJ9
+
+
 #EXTINF:-1, MX FX SD Lat 2
 http://gangafree.com:25461/64905860/76783870/1679
 
