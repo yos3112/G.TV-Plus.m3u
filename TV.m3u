@@ -27,6 +27,11 @@ https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/playlist.m
 https://gt-chapintv-canal23-live.ned.media:443/chapintv/smil:canal23.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjA3ODM3NDUyLCJzZXNzaW9uIjoiMTg2LjE1MS4xMjIuMjA0Iiwid2hpdGVsaXN0IjpbIjE4Ni4xNTEuMTIyLjIwNCJdfSwic2lnbmF0dXJlIjoiYmU5OGE0NmFlMDI4OTYwODUyMWJlNDIwNTM4YTQ4NzljYmNiNmFmNSJ9
 
 
+#EXTINF:-1, Enlace
+https://wowzaprod238-i.akamaihd.net/hls/live/1020898/3f0a7504/playlist.m3u8
+
+
+
 #EXTINF:-1, MX FX SD Lat 2
 http://gangafree.com:25461/64905860/76783870/1679
 
