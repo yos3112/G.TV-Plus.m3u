@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1, Jesús TV
+https://player-api.new.livestream.com/accounts/17608437/events/9065487/broadcasts/214776433.secure.m3u8?dw=80&hdnea=st=1607746580~exp=1607748380~acl=/i/17608437_9065487_lsifehjmcip5z5p8wor_1@407476/*~hmac=5b7bcc817fb9ff1ace28b7683e53223070b54c09e196f802f951ca930c69b17c&token=5fd44540_8455422cd5d3f74b7dde4271c3ecaf4fd77c2623
+
+#EXTINF:-1, Jesús TV opc2
+https://playback2.akamaized.net/streams/17608437_9065487_lsifehjmcip5z5p8wor_1/exp=1607833604~acl=%2f*~data=hdntl~hmac=e2d577f3a67e1163a2f4a880a4e3a9a3a98eee3744523e29319761e39bd88a8b/media/17608437_9065487_lsifehjmcip5z5p8wor_1@446000p.m3u8?dw=80&ts=1607745600
 
 #EXTINF:-1, MX FX SD Lat 2
 http://gangafree.com:25461/64905860/76783870/1679
