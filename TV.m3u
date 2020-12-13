@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1, Jesús TV
-https://player-api.new.livestream.com/accounts/17608437/events/9065487/broadcasts/214776433.secure.m3u8?dw=80&hdnea=st=1607746580~exp=1607748380~acl=/i/17608437_9065487_lsifehjmcip5z5p8wor_1@407476/*~hmac=5b7bcc817fb9ff1ace28b7683e53223070b54c09e196f802f951ca930c69b17c&token=5fd44540_8455422cd5d3f74b7dde4271c3ecaf4fd77c2623
+https://player-api.new.livestream.com/accounts/17608437/events/9065487/broadcasts/214846736.secure.m3u8?dw=80&hdnea=st=1607892354~exp=1607894154~acl=/i/17608437_9065487_lsivt0f3gwqrv55byy0_1@305428/*~hmac=15323e1f265458d771932b68470159fc07a9a86078869efcbe80c27adeaa9688&token=5fd67eae_0dd74495e6732a7f6bf15b72ca454aa3752f081d
 
 #EXTINF:-1, Jesús TV opc2
-https://playback2.akamaized.net/streams/17608437_9065487_lsifehjmcip5z5p8wor_1/exp=1607833604~acl=%2f*~data=hdntl~hmac=e2d577f3a67e1163a2f4a880a4e3a9a3a98eee3744523e29319761e39bd88a8b/media/17608437_9065487_lsifehjmcip5z5p8wor_1@446000p.m3u8?dw=80&ts=1607745600
+https://playback2.akamaized.net/streams/17608437_9065487_lsivt0f3gwqrv55byy0_1/exp=1607978844~acl=%2f*~data=hdntl~hmac=1244e3f470ef1afb8728710831bd83f8115852d9a5ddbcdadba07f2db28cab27/media/17608437_9065487_lsivt0f3gwqrv55byy0_1@446000pb.m3u8?dw=80&ts=1607889600
 
 #EXTINF:-1,  Canal 27
 https://dcunilive16-lh.akamaihd.net/i/dclive_1@330503/master.m3u8?hdnea=st=1607748001~exp=1607748401~acl=/i/dclive_1@330503*~hmac=96c43c7977cd786aa241860fed88eb3c1a441e6b74d799e6db98ebffd58af258
