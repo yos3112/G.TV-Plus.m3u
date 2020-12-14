@@ -31,6 +31,24 @@ https://gt-chapintv-canal23-live.ned.media:443/chapintv/smil:canal23.smil/chunkl
 #EXTINF:-1, Enlace
 https://wowzaprod238-i.akamaihd.net/hls/live/1020898/3f0a7504/playlist.m3u8
 
+#EXTINF:-1,  GT Canal 3
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/55269.ts
+
+#EXTINF:-1,   GT Canal 7
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/55270.ts
+
+EXTINF:-1,  GT Canal 11
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/63274.ts
+
+#EXTINF:-1,  GT Canal 13
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/55268.ts
+
+
+#EXTINF:-1,  GT  Guatevisión 
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/55272.ts
+
+#EXTINF:-1,  GT Canal Antigua 
+http://new.geotvplus.com:2082/live/Fernanda12/JQRLfXe8FN/63276.ts
 
 
 EXTINF:-1,  Caracol TV
