@@ -18,6 +18,9 @@ https://cdn3.wowza.com:443/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/../n8345n84/2728
 #EXTINF:-1, pasiones 
 http://89.105.194.59:25461/live/2mxT!Y9/2mxT!Y9/40.m3u8
 
+#EXTINF:-1,  Telemundo Internacional
+http://free1001.free-live.xyz:2052/free10/050/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTQvMjAyMCAzOjQ3OjI2IEFNJmhhc2hfdmFsdWU9Smo5bjRWNGxjZHgwMXFJM1NuVXFadz09JnZhbGlkbWludXRlcz0yNDA=
+
 #EXTINF:-1, Telemundo
 https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
 
